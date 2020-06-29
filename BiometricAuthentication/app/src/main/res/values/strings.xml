@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BiometricAuthentication</string>
+    <string name="pwd">12345</string>
+</resources>
